@@ -4,7 +4,7 @@
 
 My name is MinJae Kwon (a.k.a mingrammer).
 
-- :computer: Backend engineer who loves designing an system architecture.
+- :computer: Backend engineer who loves designing system architectures.
 - :gift: Open source enthusiast. Thanks for the all open source contributors.
 - :art: Creator of [Diagrams](https://github.com/mingrammer/diagrams), the Diagram as Code language. (Try it!)
 - :snowman: Do you wanna build a highly scalable distributed system? Yes I do! :blush:
