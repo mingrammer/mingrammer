@@ -10,3 +10,4 @@ My name is MinJae Kwon (a.k.a mingrammer).
 - :snowman: Do you wanna build a highly scalable distributed system? Yes I do! :blush:
 - :factory: Automate the boring tasks and make something for developers.
 
+[![mingrammer's github stats](https://github-readme-stats.vercel.app/api?username=mingrammer&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
