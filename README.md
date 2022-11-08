@@ -4,10 +4,10 @@
 
 My name is MinJae Kwon (a.k.a mingrammer).
 
-- :computer: Backend engineer who loves designing system architectures.
-- :gift: Open source enthusiast. Thanks for the all open source contributors.
-- :art: Creator of [Diagrams](https://github.com/mingrammer/diagrams), the Diagram as Code language. (Try it!)
-- :snowman: Do you wanna build a highly scalable distributed system? Yes I do! :blush:
-- :factory: Automate the boring tasks and make something for developers.
+- 💻 A software engineer who loves designing system architectures.
+- ❤️ Love open source. Appreciate all the open source contributors.
+- 🎨 Creator of [Diagrams](https://github.com/mingrammer/diagrams), the Diagram as Code language. (Try it!)
+- 🛠️ Don't fall in love with the tech. Fall in love with problem solving.
+- 🏭 Love automating boring tasks and making tools for developers.
 
 [![mingrammer's github stats](https://github-readme-stats.vercel.app/api?username=mingrammer&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
